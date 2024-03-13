@@ -1,0 +1,8 @@
+.cards {
+	background: rgb(200, 242, 243) !important;
+}
+.cards:hover {
+	transform: scale(1.01);
+	transition: all 200ms;
+	cursor: pointer;
+}
